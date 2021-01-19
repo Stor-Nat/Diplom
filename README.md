@@ -5,9 +5,9 @@
 Программа предназначена для покупки тура двумя способами: с помощью дебетовой картой или с помощью кредита.
 
 ## Документация проекта
-* [Планирование автоматизации]()
-* [Отчетный документ по итогам тестирования]()
-* [Отчетный документ по итогам автоматизации]()
+* [Планирование автоматизации](https://github.com/Stor-Nat/Diplom/blob/master/documentation/Plan.md)
+* [Отчетный документ по итогам тестирования](https://github.com/Stor-Nat/Diplom/blob/master/documentation/Report.md)
+* [Отчетный документ по итогам автоматизации](https://github.com/Stor-Nat/Diplom/blob/master/documentation/Summary.md)
 
 ## Необходимое ПО
 * Browser;
