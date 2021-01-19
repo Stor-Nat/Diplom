@@ -16,7 +16,7 @@
 * Docker.
 
 ## Инструкция по запуску
-1. Склонировать репозиторий по [ссылке]();
+1. Склонировать репозиторий по [ссылке](https://github.com/Stor-Nat/Diplom.git);
 1. Открыть программу InteliJ Idea, вкладку Terminal и развернуть базу данных командой  `docker-compose up -d --force-recreate`
 1. Запустить тестируемое приложение командой :
     * если используете СУБД Postgres: `java -Dspring.datasource.url=jdbc:postgresql://localhost:5432/postgres -jar artifacts/aqa-shop.jar`
